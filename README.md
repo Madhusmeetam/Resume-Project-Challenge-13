@@ -186,7 +186,7 @@ Trip View
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
-
+https://github.com/Madhusmeetam/Resume-Project-Challenge-13/tree/main/Images
 
 
 
