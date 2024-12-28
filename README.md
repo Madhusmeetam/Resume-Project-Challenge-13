@@ -197,7 +197,7 @@ https://github.com/Madhusmeetam/Resume-Project-Challenge-13/tree/main/Images
 
 5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
 
-
+https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq5.png?raw=true
 
 6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
 
