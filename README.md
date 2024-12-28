@@ -158,9 +158,10 @@ Passenger View
 
  Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
 
-https://github.com/Madhusmeetam/Resume-Project-Challenge-13/issues/1
 
- 
+
+
+ https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq8.png
 
  Operation View 
 
