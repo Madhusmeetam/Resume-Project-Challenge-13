@@ -178,7 +178,7 @@ Trip View
 
 1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
 
-
+      https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq1.png
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
