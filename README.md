@@ -177,12 +177,12 @@ Trip View
 ## Primary Analysis: 
 
 1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
+![image](https://github.com/user-attachments/assets/6fcdc79e-1ffe-423f-9035-80a6ec95d76a)
 
-      https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq1.png
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
-
+        
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
@@ -208,6 +208,7 @@ Trip View
 
 8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
+    ![image](https://github.com/user-attachments/assets/cab5e012-8652-4eab-8bd0-c899d471b9c5)
 
 
 ## Secondary Analysis:
