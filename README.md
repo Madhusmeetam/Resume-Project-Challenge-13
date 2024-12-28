@@ -203,10 +203,11 @@ https://github.com/Madhusmeetam/Resume-Project-Challenge-13/tree/main/Images
  
 
 7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
+https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq7.png
 
-    https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq7.png?raw=true
+   [ https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq7.png?raw=true](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq7.png)
 
-8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
+9. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
     ![image](https://github.com/user-attachments/assets/cab5e012-8652-4eab-8bd0-c899d471b9c5)
 
