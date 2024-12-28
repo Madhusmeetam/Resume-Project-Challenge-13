@@ -182,7 +182,7 @@ Trip View
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
-        
+       https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq2.png        
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
