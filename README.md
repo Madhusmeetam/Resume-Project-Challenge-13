@@ -154,20 +154,17 @@ Trip View
 <hr>
 <br>
 
-<p align="center"><strong> Passenger View </strong></p>
-<p align="center"> Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
- </p>
+Passenger View
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Passenger-View-Page.png" alt="Passenger View Page">
-</p>
-<br>
-<hr>
-<br>
+ Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
 
-<p align="center"><strong> Operation View </strong></p>
-<p align="center"> Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
- </p>
+ https://github.com/Madhusmeetam/Resume-Project-Challenge-13/issues/1#issue-2761780608
+ 
+
+ Operation View 
+
+Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/Dashboard_Preview/D-Operation-View-Page.png" alt="Operation View Page">
