@@ -219,8 +219,7 @@ Trip View
     ![image](https://github.com/user-attachments/assets/cab5e012-8652-4eab-8bd0-c899d471b9c5)
 
 
-   https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq8.png?raw=true
-
+   
 
 ## Secondary Analysis:
 
