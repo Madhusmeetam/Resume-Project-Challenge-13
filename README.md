@@ -182,31 +182,39 @@ Trip View
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
-https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/30cde5a525e03edbf5a5fb89bc7d03884a22a3be/Images/pq2.png
-       https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq2.png        
+![image](https://github.com/user-attachments/assets/9e9014f0-a367-424f-bfed-78bf5ed775c9)
+     
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
-https://github.com/Madhusmeetam/Resume-Project-Challenge-13/tree/main/Images
+
+![image](https://github.com/user-attachments/assets/326d95f8-c20e-45e4-ac64-484217721d75)    
+
+
 
 
 
 4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
 
+![image](https://github.com/user-attachments/assets/a625254b-60bb-4305-aad7-0b15a369109a)
 
 
 5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
 
-https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq5.png?raw=true
+![image](https://github.com/user-attachments/assets/654e2b2d-fbaa-477a-a792-906d2a63a4ea)
+
 
 6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
 
- 
+ ![image](https://github.com/user-attachments/assets/63b578f5-7510-47b1-a32f-1c7ef56af9b0)
+
 
 7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
 
+![image](https://github.com/user-attachments/assets/4846d2de-951c-4cbb-b57c-311317385e82)
 
-9. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
+
+8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
     ![image](https://github.com/user-attachments/assets/cab5e012-8652-4eab-8bd0-c899d471b9c5)
 
