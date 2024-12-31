@@ -139,7 +139,7 @@ Here you can check the Data Model which is used for this project.
 
  Home Page 
 
- ![image](https://github.com/user-attachments/assets/fd804734-61fa-47de-8de4-49185e4c5764)
+ ![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/home.png)
 
 
  
@@ -149,7 +149,7 @@ Trip View
 
  Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
 
-![image](https://github.com/user-attachments/assets/f629568c-024a-4e76-98c0-638072998bbf)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/trip%20analysis.png)
 
 
 
@@ -159,7 +159,7 @@ Passenger View
 
 
 
-![image](https://github.com/user-attachments/assets/58eeb4ea-c12d-4a3f-bd88-bb55df13d769)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Passenger%20dashboard.png)
 
 
 
@@ -167,7 +167,7 @@ Passenger View
 
 Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
 
-![image](https://github.com/user-attachments/assets/f3243e8e-8605-4a11-b7a8-bca53ebba2b8)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Performanceoverview.png)
 
 
 
