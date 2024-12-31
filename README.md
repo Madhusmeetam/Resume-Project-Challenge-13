@@ -10,7 +10,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 - [Project Presentation](#project-presentation)
 - [Live Dashboard](#live-dashboard)
 - [Tools & Technique used](#tools--technique)
-- [Problem Statement](#https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/problem_statement.pdf) 
+- [Problem Statement](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/problem_statement.pdf) 
 - [Goal & Purpose](#goal--purpose)
 - [Data Source](#data-source)
 - [Data Modeling](#data-modeling)
