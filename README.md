@@ -32,7 +32,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 
 ## Live Dashboard:
 
-Checkout the live dashboard here 👉🏻 [Live Dashboard](https://shorturl.at/K6C2w)
+Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/groups/me/reports/df245e0f-7c90-4f3f-bfb2-18b19882e9dd/33d3607f9592ebce0103?bookmarkGuid=13e79a6f-27a3-4064-862b-975afe41b4e7&bookmarkUsage=1&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&portalSessionId=b6931f8a-10e1-45a3-aece-2634ca183202&fromEntryPoint=export)
 
 
 ## Tools & Technique:
@@ -174,18 +174,18 @@ Shows trip volume trends across 10 tier-2 cities, highlighting total trips compl
 ## Primary Analysis: 
 
 1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
-![image](https://github.com/user-attachments/assets/6fcdc79e-1ffe-423f-9035-80a6ec95d76a)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq1.png?raw=true)
 
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
-![image](https://github.com/user-attachments/assets/9e9014f0-a367-424f-bfed-78bf5ed775c9)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq2.png?raw=true)
      
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
 
-![image](https://github.com/user-attachments/assets/326d95f8-c20e-45e4-ac64-484217721d75)    
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq3.png?raw=true)  
 
 
 
@@ -193,7 +193,7 @@ Shows trip volume trends across 10 tier-2 cities, highlighting total trips compl
 
 4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
 
-![image](https://github.com/user-attachments/assets/a625254b-60bb-4305-aad7-0b15a369109a)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq4.png?raw=true)
 
 
 5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
