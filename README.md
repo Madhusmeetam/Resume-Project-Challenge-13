@@ -10,7 +10,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 - [Project Presentation](#project-presentation)
 - [Live Dashboard](#live-dashboard)
 - [Tools & Technique used](#tools--technique)
-- [Problem Statement](#problem-statement) (https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/problem_statement.pdf)
+- [Problem Statement](#https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/problem_statement.pdf) 
 - [Goal & Purpose](#goal--purpose)
 - [Data Source](#data-source)
 - [Data Modeling](#data-modeling)
@@ -105,7 +105,7 @@ Additionally, I have added "City Category" dataset which is created based on lat
 Here you can check the Data Model which is used for this project. 
 
 
-<img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/data_model/data_model.png" alt="Data Model Preview" >
+<img src="https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Data%20Model/data%20model.png" alt="Data Model Preview" >
 
 
 ## Key Metrics:
@@ -198,22 +198,22 @@ Shows trip volume trends across 10 tier-2 cities, highlighting total trips compl
 
 5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
 
-![image](https://github.com/user-attachments/assets/654e2b2d-fbaa-477a-a792-906d2a63a4ea)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq5.png)
 
 
 6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
 
- ![image](https://github.com/user-attachments/assets/63b578f5-7510-47b1-a32f-1c7ef56af9b0)
+ ![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq6.png)
 
 
 7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
 
-![image](https://github.com/user-attachments/assets/4846d2de-951c-4cbb-b57c-311317385e82)
+![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq7.png)
 
 
 8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
-    ![image](https://github.com/user-attachments/assets/cab5e012-8652-4eab-8bd0-c899d471b9c5)
+    ![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq8.png)
 
 
    
