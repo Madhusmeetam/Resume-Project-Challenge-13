@@ -80,15 +80,13 @@ The datasets are provided by Codebasics. Here you can see the overview:
 
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/data-overview.png" alt="Dataset Overview" >
+    <img src="https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/data%20overview.jpg" alt="Dataset Overview" >
   </p>
 
 
 Meta Data 
 
 > For understanding the dataset in details, [Click Here](./meta_data.txt) to view meta data details of given database and tables. 
-
-
 
 > [!NOTE]
 > I have created one more table named "start of month" from dim_date table.
@@ -143,8 +141,6 @@ Here you can check the Data Model which is used for this project.
 
 
  
-
-
 Trip View 
 
  Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
@@ -188,9 +184,6 @@ Shows trip volume trends across 10 tier-2 cities, highlighting total trips compl
 ![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq3.png?raw=true)  
 
 
-
-
-
 4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
 
 ![image](https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Images/pq4.png?raw=true)
@@ -222,35 +215,43 @@ Shows trip volume trends across 10 tier-2 cities, highlighting total trips compl
 
 1. Factors Influencing Repeat Passenger Rates
 
-- Higher repeat passenger rates may correlate with better passenger ratings, indicating quality service.
-- Competitive pricing might attract more repeat passengers in cities with a price-sensitive demographic.
-- Socioeconomic factors: Cities with higher-income groups may prefer premium services, whereas lower-income groups may prefer cost-effective services.
-- Lifestyle patterns: Cities with high professional populations (e.g., IT hubs) may show consistent repeat usage during weekdays.
+- Passenger Satisfaction: Higher repeat passenger rates often align with better ratings, reflecting quality service.
+Competitive Pricing: Affordable fares attract more repeat passengers in price-sensitive cities.
+Socioeconomic Trends: Premium services appeal to high-income groups, while cost-effective options suit lower-income areas.
+Lifestyle Habits: IT hubs or professional cities see consistent repeat usage during weekdays due to work commutes.
 
 2. Tourism vs. Business Demand Impact
 
-- Cross-referenced trip data with event calendars (festivals, conferences, tourism seasons) over 6 months.
-- Cities with high tourism activities (e.g., Jaipur, Kochi) show demand spikes during festive seasons or vacations.
-- Business-oriented cities (e.g., Lucknow, Surat) show consistent weekday demand.
+- Event Correlation: Trip data linked to event calendars shows demand spikes during festivals and tourism seasons.
+-Tourism Hotspots: Cities like Jaipur and Kochi see increased rides during festive seasons or vacation periods.
+-Business Hubs: Cities like Lucknow and Surat exhibit steady weekday demand driven by professional commutes.
+
 
 3. Emerging Mobility Trends and Goodcabs' Adaptation
 
-- Evaluate trends like adoption of electric vehicles, passenger preferences for green energy, and emerging mobility needs.
-- Electric Vehicle (EV) Adoption: Growing preference for green transport in tier-2 cities. EV could reduce operational costs and appeal to environmentally conscious passengers.
-- Sustainability Focus: Eco-conscious passengers favor ride-sharing and low-emission options.
+-Analyze developments in mobility needs, passenger preferences for green energy, and the uptake of electric vehicles. 
+-Adoption of Electric Vehicles (EVs): Tier-2 cities are increasingly choosing environmentally friendly transportation. EVs have the potential to save operating expenses and attract eco-aware travelers.
+-Sustainability Focus: Low-emission and ride-sharing solutions are preferred by environmentally aware travelers
+
 
 4. Partnership Opportunities with Local Businesses
 
-- Reviewed trip destinations to identify potential partnerships with hotels, malls, and event venues.
-- Popular tourist destinations and business centers could be leveraged for tie-ups.
-- Partnerships with event venues (e.g., offering discounts for rides to events) could drive loyalty
+-Partner with Hotels: Provide reliable transportation for guests, gaining consistent demand from tourists and business travelers.
+-Collaborate with Shopping Malls: Offer discounts for rides to malls, boosting foot traffic and ride bookings during peak hours.
+-Tie-Up with Event Venues: Ensure on-demand rides for events, leveraging high-volume bookings and exclusive promo codes.
+-Tourism Partnerships: Work with travel agencies to offer curated packages like city tours, ensuring steady demand during tourist seasons.
+-Loyalty Programs: Reward customers with points redeemable at partner businesses, enhancing loyalty for both brands.
+-Dedicated Branding Zones: Set up branded pickup/drop-off points at malls, hotels, and event venues for visibility.
+-Integrate Technology: Enable seamless cab bookings via partner apps with in-app promotions and discounts.
+
 
 5. Data Collection for Enhanced Data-Driven Decisions
 
-- Passenger data: Frequency of use, feedback on service quality, and referral usage.
-- Driver data: Availability, on-time performance, and training status.
-- Market trends: Competition metrics like pricing and service offerings in each city.
-- City-specific events: Add event calendars to better predict demand fluctuations
+-Understand Customer Behavior: Track ride history, preferences, and feedback to improve satisfaction, identify loyalty trends, and address churn through personalized services.
+-Improve Operational Efficiency: Monitor driver performance, ride fulfillment, and fleet utilization while reducing downtime with real-time GPS tracking and automated maintenance logs.
+-Stay Ahead with Market Trends: Analyze seasonal demand, competitive pricing, and demographic insights to adapt services and create tailored promotions for specific customer groups.
+-Boost Financial Performance: Measure revenue per ride, optimize promotions, and break down operating costs to identify areas for growth and cost-saving opportunities.
+
 
 ## Recommendations:
 
