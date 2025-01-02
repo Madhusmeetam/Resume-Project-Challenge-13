@@ -98,9 +98,6 @@ Meta Data
 > In this table, there are 3 columns start of month, month name and month no.   
 
 
-Additionally, I have added "City Category" dataset which is created based on latest information available on internet. You can see the table [here](./datasets/city-category.csv) 
-
-
 > [!IMPORTANT]
 > Data is available from January 2024 to June 2024(6 Month).
 
