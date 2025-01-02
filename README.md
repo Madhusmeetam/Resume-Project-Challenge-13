@@ -25,11 +25,15 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 
 <p align="center">
 <a href="https://youtu.be/Xt1VSAsUzK4" target="_blank">
-  <img src=" https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Provide%20Insights%20%26%20Performance%20Analysis%20In%20Transportation%20Domain%20(2).png" 
+  <img src="https://github.com/Madhusmeetam/Resume-Project-Challenge-13/blob/main/Provide%20Insights%20&%20Performance%20Analysis%20In%20Transportation%20Domain%20(2).png?raw=true" 
     alt="Presentation Preview" style="width: 70%; max-width: 360px;">
   
 </a>
 </p>
+
+
+
+
 
 ## Live Dashboard:
 
